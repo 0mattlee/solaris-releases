@@ -1,0 +1,123 @@
+TERMOS DE USO DO SOLARIS - VERSÃO PRÉ-ALFA
+(English below. Em caso de divergência, prevalece a versão em português.)
+
+Titular: Matheus Morais ("Titular").
+Programa: SOLARIS, em sua versão pré-alfa, incluindo o instalador, os arquivos instalados e a
+documentação que os acompanha ("Programa").
+
+Ao instalar ou usar o Programa, você declara que leu e aceita estes termos. Se não aceitar, não
+instale e não use o Programa.
+
+1. LICENÇA CONCEDIDA
+O Titular concede a você uma licença pessoal, gratuita, não exclusiva, intransferível e revogável
+para instalar e usar o Programa em computadores seus, exclusivamente para fins pessoais e não
+comerciais, de avaliação e teste.
+
+2. O QUE DEPENDE DE AUTORIZAÇÃO DO TITULAR
+Sem autorização prévia e por escrito do Titular, é proibido:
+a) vender, alugar, emprestar, sublicenciar ou comercializar de qualquer forma o Programa ou cópias
+   dele;
+b) usar o Programa em atividade comercial, empresarial ou profissional remunerada, ou para prestar
+   serviços a terceiros;
+c) copiar, redistribuir, publicar ou disponibilizar o Programa ou o instalador a terceiros, por
+   qualquer meio. Quem quiser usar o Programa deve obtê-lo pelo endereço oficial de distribuição;
+d) modificar, traduzir, descompilar, desmontar ou fazer engenharia reversa do Programa, salvo nos
+   casos em que a lei o permita expressamente;
+e) remover ou alterar avisos de direitos autorais, marcas ou estes termos.
+
+3. PROPRIEDADE
+O Programa é protegido pela legislação de direitos autorais e de software. Todos os direitos sobre
+ele pertencem ao Titular, exceto os dos componentes de terceiros. Esta licença não transfere a você
+nenhuma propriedade sobre o Programa.
+
+4. COMPONENTES DE TERCEIROS
+O Programa inclui componentes de terceiros, como o Qt, distribuídos sob suas próprias licenças, cujos
+textos estão na pasta "licenses" da instalação. Nada nestes termos limita os direitos que essas
+licenças lhe garantem. Em especial, conforme a licença LGPL do Qt, você pode modificar ou substituir
+as bibliotecas do Qt que acompanham o Programa e fazer a engenharia reversa necessária para depurar
+essas modificações, sem que isso viole a cláusula 2.
+
+5. SEUS ARQUIVOS
+Os modelos, projetos e demais arquivos que você criar com o Programa pertencem a você.
+
+6. VERSÃO PRÉ-ALFA E AUSÊNCIA DE GARANTIAS
+O Programa é uma versão pré-alfa, em desenvolvimento, fornecida "no estado em que se encontra", sem
+garantias de qualquer tipo. Ele pode conter erros, travar, perder dados e mudar de forma
+incompatível entre versões. Faça cópias de segurança do seu trabalho. Na máxima extensão permitida
+pela lei, o Titular não se responsabiliza por danos ou perdas decorrentes do uso ou da
+impossibilidade de uso do Programa.
+
+7. TÉRMINO
+Esta licença termina automaticamente se você descumprir estes termos. O Titular pode encerrar a
+distribuição do Programa ou substituí-lo por novas versões a qualquer momento. Ao término, você deve
+desinstalar o Programa e apagar suas cópias.
+
+8. LEI APLICÁVEL
+Estes termos são regidos pelas leis da República Federativa do Brasil.
+
+Pedidos de autorização devem ser feitos diretamente ao Titular, Matheus Morais.
+
+Copyright (c) 2026 Matheus Morais. Todos os direitos reservados.
+
+
+-------------------------------------------------------------------------------------------------
+
+
+SOLARIS TERMS OF USE - PRE-ALPHA VERSION
+(Translation. If the versions differ, the Portuguese version prevails.)
+
+Owner: Matheus Morais ("Owner").
+Software: SOLARIS, in its pre-alpha version, including the installer, the installed files and the
+accompanying documentation ("Software").
+
+By installing or using the Software, you state that you have read and accept these terms. If you do
+not accept them, do not install or use the Software.
+
+1. LICENSE GRANTED
+The Owner grants you a personal, free, non-exclusive, non-transferable and revocable license to
+install and use the Software on your own computers, solely for personal, non-commercial evaluation
+and testing.
+
+2. WHAT NEEDS THE OWNER'S AUTHORIZATION
+Without the Owner's prior written authorization, you may not:
+a) sell, rent, lend, sublicense or otherwise commercialize the Software or copies of it;
+b) use the Software in commercial, business or paid professional activity, or to provide services to
+   others;
+c) copy, redistribute, publish or make the Software or its installer available to others, by any
+   means. Anyone who wishes to use the Software must obtain it from the official distribution
+   address;
+d) modify, translate, decompile, disassemble or reverse engineer the Software, except where the law
+   expressly permits it;
+e) remove or alter copyright notices, marks or these terms.
+
+3. OWNERSHIP
+The Software is protected by copyright and software law. All rights in it belong to the Owner,
+except those in third-party components. This license transfers no ownership of the Software to you.
+
+4. THIRD-PARTY COMPONENTS
+The Software includes third-party components, such as Qt, distributed under their own licenses, whose
+texts are in the "licenses" folder of the installation. Nothing in these terms limits the rights those
+licenses give you. In particular, as Qt's LGPL license provides, you may modify or replace the Qt
+libraries that come with the Software, and reverse engineer it as needed to debug such modifications,
+without breaching section 2.
+
+5. YOUR FILES
+The models, projects and other files you create with the Software belong to you.
+
+6. PRE-ALPHA VERSION AND NO WARRANTY
+The Software is a pre-alpha version, in development, provided "as is", without warranties of any
+kind. It may contain errors, crash, lose data and change incompatibly between versions. Back up your
+work. To the fullest extent permitted by law, the Owner is not liable for any damage or loss arising
+from the use of, or the inability to use, the Software.
+
+7. TERMINATION
+This license ends automatically if you breach these terms. The Owner may stop distributing the
+Software or replace it with new versions at any time. On termination, you must uninstall the Software
+and delete your copies.
+
+8. GOVERNING LAW
+These terms are governed by the laws of the Federative Republic of Brazil.
+
+Requests for authorization must be made directly to the Owner, Matheus Morais.
+
+Copyright (c) 2026 Matheus Morais. All rights reserved.
