@@ -4,7 +4,7 @@ A desktop application for 3D modeling and game assets, by Matheus Morais.
 
 This repository only publishes the builds of SOLARIS. The source code is private.
 
-**[Download the latest build](https://github.com/0mattlee/solaris-releases/releases/latest)**
+**[Download / Baixar: SOLARIS 0.7.0 pre-alpha](https://github.com/0mattlee/solaris-releases/releases/tag/v0.7.0-pre-alpha)** - [all builds / todas as versões](https://github.com/0mattlee/solaris-releases/releases)
 
 ## Português
 
